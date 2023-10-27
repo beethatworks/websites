@@ -1,0 +1,29 @@
+chris davis
+workerbee@rarerooster.co.uk
+organisation rarerooster
+pw b@uZpH#Rn2r6QQx
+
+the certpanel which links to comodo account is the different
+https://certpanel.com/comodo/quicklogin.aspx?isauth=false&ReturnUrl=%2fcomodo%2f
+workerbee@rarerooster.co.uk
+Wq9anPJJ@r63Bcs
+
+
+CSR request from laughing squid  Scott Devaney
+
+https://laughingsquid.zendesk.com/hc/en-us/articles/360000969273-How-do-you-get-started-with-an-SSL-certificate-
+
+https://laughingsquid.zendesk.com/hc/en-us?return_to=%2Fhc%2Frequests
+
+full domain name (including www.)  						www.rarerooster.co.uk
+name of the organization  							rarerooster
+name of the organization unit, ie. company department or section		rarerooster
+city										narberth
+state or province								pembrokeshire
+country										united kingdom
+
+Once you have provided us with that information, we will generate a CSR for your domain, which you will then use when purchasing your SSL certificate. Choose an SSL certificate provider and follow the instructions on their website on how to purchase an SSL certificate.
+
+NOTE: Make sure the common name is set to use your full domain name including the www. in your domain name.
+
+If they ask you for the type of web server we are using, select Apache + OpenSSL.
