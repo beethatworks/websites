@@ -1,0 +1,25 @@
+
+MYSQL Database #1
+Hostname mariadb-153.wc2.phx1.stabletransit.com
+Database 604273_rarerooster_nrb
+Username 604273_narberth
+Password: Saucers034711
+Type MariaDB 10.1
+Online Manager https://mysql.phx1-2.websitesettings.com
+Management IP 207.246.242.156
+
+
+ADMINISTRATOR
+Site Title	Narberth
+Username	Wordpress
+user passord	^b2)uvmsTvpe@LH(is
+Admin e mail workerbee@rarerooster.co.uk
+
+
+Site Title	Narberth
+Username	Lacky
+user passord	Y^UE)MpA(jLntnHX)B8AOhyq
+Helper e mail github@rarerooster.co.uk
+
+Editor set password to login  tumeric 9lowercase)
+

@@ -1,0 +1,27 @@
+{
+    "remotePath": "/www.rarerooster.co.uk/web/content/",
+    "host": "ftp3.ftptoyoursite.com",
+    "username": "rarerooster",
+    "password": "Saucers034711",
+    "port": 22,
+    "secure": false,
+    "protocol": "sftp",
+    "uploadOnSave": false,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "agent": null,
+    "allow": [],
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "extensionsToInclude": [
+            ".php, .js, .css, .html"
+        ],
+        "path": ""
+    }
+}
